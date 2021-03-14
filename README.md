@@ -1,12 +1,15 @@
-### Hi there 👋
-### Merhaba. 👋
+<h3 align="center">Merhaba 👋</h3><h3 align="center">Hello 👋</h3>
 
+<img align="right" src="https://cdn.kymzmediaproduction.xyz/img-cdn/kymz-apple-touch-icon.png" width="260">
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MertKaymaz35&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertKaymaz35&layout=compact&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
-</p>
+![Stats](https://github-readme-stats.vercel.app/api/?username=MertKaymaz35&show_icons=true&include_all_commits=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MertKaymaz35&layout=compact)
 
-<b>Ben Mert. Yıllardır Hobi ve İş Olarak Kod İle Uğraşıyorum <3 </b>
-  
-  <b>I am mert. For Years, I Have Interested In Code As Hobby And Profession <3</b>
+#### 😎  My latest projects / Projelerim
+- [AppDigger.co](https://www.appdigger.co/)
+- [BubiChat](https://www.producthunt.com/posts/bubi-chat-2)
+- [SpotiChat](https://www.producthunt.com/posts/spotichat)
+
+#### 🙌  Social Media / Sosyal Medya
+
+-
