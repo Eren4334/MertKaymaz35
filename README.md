@@ -9,7 +9,6 @@
 - [KYMZ Media Production Inc.](https://kymzmediaproduction.xyz/)
 - [MRTKYMZ.ML](https://mrtkymz.ml)
 #### 🙌  Social Media / Sosyal Medya
-
 -[Codepen](https://codepen.io/mertkaymaz35)
 -[İnstagram](https://mrtkymz.ml/instagram)
 -[YouTube](https://mrtkymz.ml/youtube)
